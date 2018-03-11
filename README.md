@@ -12,6 +12,6 @@ The goal of this study is to use these data to investigate:
 
 # Installation and getting the data
 
-The main notebook of this study is ```fbi_stats_hate_crime.ipynb```. It contains both code and details of this study. To run it, simply check out the repoistory from GitHub to your local machine and run the notebook via ```jupyter notebook```.
+The main notebook of this study is ```fbi_stats_hate_crime.ipynb```. It contains both code and details of this study. To run it, check out the repoistory from GitHub to your local machine and run the notebook via ```jupyter notebook```.
 
 Copies of the input data files used in this notebook are stored in the ```data/``` subdirectory. See description in ```fbi_stats_hate_crime.ipynb``` for details on the data sources.
