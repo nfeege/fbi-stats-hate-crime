@@ -10,8 +10,7 @@ The goal of this study is to use these data to investigate:
 * How does the fraction of reported race motivated crimes in each state correlate with the fraction of 'white' population?
 * How are the reported hate crimes distributed across states?
 
+The main notebook of this study is [fbi_stats_hate_crime.ipynb](fbi_stats_hate_crime.ipynb). It contains both code and details of this study. To run it, check out the repoistory from GitHub to your local machine and run the notebook via ```jupyter notebook```.
+
 # Installation and getting the data
-
-The main notebook of this study is ```fbi_stats_hate_crime.ipynb```. It contains both code and details of this study. To run it, check out the repoistory from GitHub to your local machine and run the notebook via ```jupyter notebook```.
-
-Copies of the input data files used in this notebook are stored in the ```data/``` subdirectory. See description in ```fbi_stats_hate_crime.ipynb``` for details on the data sources.
+Copies of the input data files used in this notebook are stored in the [data/](data) subdirectory. See description in [fbi_stats_hate_crime.ipynb](fbi_stats_hate_crime.ipynb) for details on the data sources.
